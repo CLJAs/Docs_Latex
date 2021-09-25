@@ -1,5 +1,5 @@
-\babel@toc {spanish}{}
-\hspace {-7.5mm} \textbf {Cap\IeC {\'\i }tulos}
+\babel@toc {spanish}{}\relax 
+\hspace {-7.5mm} \textbf {Capítulos}
 \hfill \textbf {P\'agina} \par 
 \vspace {-2mm} \hspace {-7.5mm} \hrule \par 
-\contentsline {chapter}{\numberline {1}Introducci\IeC {\'o}n}{4}
+\contentsline {chapter}{\numberline {1}Introducción}{4}{}%
