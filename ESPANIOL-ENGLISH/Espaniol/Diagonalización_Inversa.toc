@@ -5,7 +5,13 @@
 \contentsline {part}{I\hspace {1em}Parte I: Construcción de la diagonalización inversa}{4}{}%
 \contentsline {chapter}{\numberline {1}Introducción}{5}{}%
 \contentsline {chapter}{\numberline {2}Introducción}{7}{}%
-\contentsline {part}{II\hspace {1em}Parte II: Anexo de comentarios complementarios}{9}{}%
-\contentsline {chapter}{\numberline {3}Ordenados por referencias, no por aparición}{10}{}%
-\contentsline {section}{\numberline {3.1}1: Prueba de texto}{10}{}%
-\contentsline {section}{\numberline {3.2}2: Segundo comentario}{11}{}%
+\contentsline {chapter}{\numberline {3}Teorema CA}{9}{}%
+\contentsline {section}{\numberline {3.1}Relaciones no aplicación}{10}{}%
+\contentsline {section}{\numberline {3.2}Concepto de Pack}{11}{}%
+\contentsline {section}{\numberline {3.3}Teorema CA}{12}{}%
+\contentsline {section}{\numberline {3.4}Interpretación intuitiva}{13}{}%
+\contentsline {section}{\numberline {3.5}Equivalencias con el concepto de inyección}{14}{}%
+\contentsline {part}{II\hspace {1em}Parte II: Anexo de comentarios complementarios}{15}{}%
+\contentsline {chapter}{\numberline {4}Ordenados por referencias, no por aparición}{16}{}%
+\contentsline {section}{\numberline {4.1}1: Prueba de texto}{16}{}%
+\contentsline {section}{\numberline {4.2}2: Segundo comentario}{17}{}%

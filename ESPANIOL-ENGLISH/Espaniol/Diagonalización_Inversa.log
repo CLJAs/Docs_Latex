@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.4)  8 OCT 2021 21:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.4)  8 OCT 2021 23:40
 entering extended mode
 **./Diagonalización_Inversa.tex
 (Diagonalización_Inversa.tex
@@ -514,22 +514,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--22
 
 [7
 
-]) [8] [9
+]) (CAPITULOS/CAPITULO_02_TeoremaCA/ES_Capitulo_02_TeoremaCA.tex [8]
+Cap\'{\i }tulo 3.
+[9
+
+] [10] [11] [12] [13]) [14] [15
 
 ]
 (CAPITULOS/CAPITULO_99_Complementarios/ES_Capitulo_99_Complementario.tex
-Cap\'{\i }tulo 3.
-[10
+Cap\'{\i }tulo 4.
+[16
 
-] [11]) (Diagonalización_Inversa.aux
+] [17]) (Diagonalización_Inversa.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 ) ) 
 Here is how much of TeX's memory you used:
- 7276 strings out of 478927
- 117169 string characters out of 2850640
+ 7283 strings out of 478927
+ 117667 string characters out of 2850640
  532025 words of memory out of 3000000
- 24970 multiletter control sequences out of 15000+600000
+ 24972 multiletter control sequences out of 15000+600000
  411773 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,9n,81p,816b,378s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -547,9 +551,9 @@ pe1/public/amsfonts/cm/cmr9.pfb><C:/Users/Fistroman/AppData/Local/Programs/MiKT
 eX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Fistroman/AppData/Local/
 Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Users/Fistroman/A
 ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on Diagonalización_Inversa.pdf (11 pages, 233077 bytes).
+Output written on Diagonalización_Inversa.pdf (17 pages, 239182 bytes).
 PDF statistics:
- 101 PDF objects out of 1000 (max. 8388607)
+ 120 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
