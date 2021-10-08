@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.4)  25 SEP 2021 01:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.4)  8 OCT 2021 21:43
 entering extended mode
 **./Diagonalización_Inversa.tex
 (Diagonalización_Inversa.tex
@@ -480,12 +480,14 @@ LaTeX Info: Redefining \% on input line 1.
 \tf@toc=\write3
 \openout3 = `Diagonalización_Inversa.toc'.
 
+ [3
 
-(CAPITULOS/CAPITULO_01/Chapter_01_Introduccion.tex [3
+] [4
 
 ]
+(CAPITULOS/CAPITULO_01/Chapter_01_Introduccion.tex
 Cap\'{\i }tulo 1.
-<../Imagenes/Editadas//EsquemaRelaciones.png, id=20, 845.40843pt x 597.73312pt>
+<../Imagenes/Editadas//EsquemaRelaciones.png, id=23, 845.40843pt x 597.73312pt>
 
 File: ../Imagenes/Editadas//EsquemaRelaciones.png Graphic file (type png)
 <use ../Imagenes/Editadas//EsquemaRelaciones.png>
@@ -495,35 +497,59 @@ nput line 7.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [4
+) (CAPITULOS/CAPITULO_01_Introduccion/ES_Capitulo_01_Introduccion.tex [5
 
-] [5 <../Imagenes/Editadas//EsquemaRelaciones.png>]
-(Diagonalización_Inversa.aux
+]
+[6 <../Imagenes/Editadas//EsquemaRelaciones.png>]
+Cap\'{\i }tulo 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--22
+
+ []
+
+[7
+
+]) [8] [9
+
+]
+(CAPITULOS/CAPITULO_99_Complementarios/ES_Capitulo_99_Complementario.tex
+Cap\'{\i }tulo 3.
+[10
+
+] [11]) (Diagonalización_Inversa.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 ) ) 
 Here is how much of TeX's memory you used:
- 7242 strings out of 478927
- 115823 string characters out of 2850640
- 529026 words of memory out of 3000000
- 24947 multiletter control sequences out of 15000+600000
- 409770 words of font info for 51 fonts, out of 8000000 for 9000
+ 7276 strings out of 478927
+ 117169 string characters out of 2850640
+ 532025 words of memory out of 3000000
+ 24970 multiletter control sequences out of 15000+600000
+ 411773 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,9n,81p,816b,361s stack positions out of 5000i,500n,10000p,200000b,80000s
-<C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
-s/cm/cmbx10.pfb><C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmbx12.pfb><C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/
-fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/Fistroman/AppData/Local/Prog
-rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/Fistroman/AppDat
-a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Fist
-roman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C
-:/Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmr9.pfb><C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
-msfonts/cm/cmtt12.pfb><C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/public/amsfonts/symbols/msbm10.pfb>
-Output written on Diagonalización_Inversa.pdf (5 pages, 192719 bytes).
+ 72i,9n,81p,816b,378s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\Fistroman\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600
+\tcrm1000.pk><C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmbx10.pfb><C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Fistroman/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/Fistroman/AppData/
+Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Fistr
+oman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:
+/Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
+mr10.pfb><C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmr12.pfb><C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmr9.pfb><C:/Users/Fistroman/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Fistroman/AppData/Local/
+Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Users/Fistroman/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on Diagonalización_Inversa.pdf (11 pages, 233077 bytes).
 PDF statistics:
- 66 PDF objects out of 1000 (max. 8388607)
+ 101 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

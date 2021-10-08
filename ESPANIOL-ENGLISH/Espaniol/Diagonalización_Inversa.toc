@@ -2,4 +2,10 @@
 \hspace {-7.5mm} \textbf {Capítulos}
 \hfill \textbf {P\'agina} \par 
 \vspace {-2mm} \hspace {-7.5mm} \hrule \par 
-\contentsline {chapter}{\numberline {1}Introducción}{4}{}%
+\contentsline {part}{I\hspace {1em}Parte I: Construcción de la diagonalización inversa}{4}{}%
+\contentsline {chapter}{\numberline {1}Introducción}{5}{}%
+\contentsline {chapter}{\numberline {2}Introducción}{7}{}%
+\contentsline {part}{II\hspace {1em}Parte II: Anexo de comentarios complementarios}{9}{}%
+\contentsline {chapter}{\numberline {3}Ordenados por referencias, no por aparición}{10}{}%
+\contentsline {section}{\numberline {3.1}1: Prueba de texto}{10}{}%
+\contentsline {section}{\numberline {3.2}2: Segundo comentario}{11}{}%
