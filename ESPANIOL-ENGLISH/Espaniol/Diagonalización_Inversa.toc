@@ -13,5 +13,5 @@
 \contentsline {section}{\numberline {3.5}Equivalencias con el concepto de inyección}{14}{}%
 \contentsline {part}{II\hspace {1em}Parte II: Anexo de comentarios complementarios}{15}{}%
 \contentsline {chapter}{\numberline {4}Ordenados por referencias, no por aparición}{16}{}%
-\contentsline {section}{\numberline {4.1}1: Prueba de texto}{16}{}%
+\contentsline {section}{\numberline {4.1}Lo que pretendo que se deduzca:}{16}{}%
 \contentsline {section}{\numberline {4.2}2: Segundo comentario}{17}{}%
