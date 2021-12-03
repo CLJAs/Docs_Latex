@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.4)  20 OCT 2021 07:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.4)  3 DEC 2021 21:09
 entering extended mode
 **./Diagonalización_Inversa.tex
 (Diagonalización_Inversa.tex
@@ -528,7 +528,71 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--15
 
  []
 
-[10] [11] [12] [13]) [14] [15
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 22--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--30
+
+ []
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 37--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+
+ []
+
+[12]
+<../Imagenes/Editadas//cap02/ImagenNoAplicacion.png, id=55, 352.31625pt x 416.3
+0531pt>
+File: ../Imagenes/Editadas//cap02/ImagenNoAplicacion.png Graphic file (type png
+)
+<use ../Imagenes/Editadas//cap02/ImagenNoAplicacion.png>
+Package pdftex.def Info: ../Imagenes/Editadas//cap02/ImagenNoAplicacion.png  us
+ed on input line 73.
+(pdftex.def)             Requested size: 176.15768pt x 208.15215pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--80
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+
+ []
+
+[13 <../Imagenes/Editadas//cap02/ImagenNoAplicacion.png>]) [14] [15
 
 ]
 (CAPITULOS/CAPITULO_99_Complementarios/ES_Capitulo_99_Complementario.tex
@@ -560,30 +624,32 @@ LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 ) ) 
 Here is how much of TeX's memory you used:
- 7281 strings out of 478927
- 117645 string characters out of 2850640
+ 7302 strings out of 478927
+ 118309 string characters out of 2850640
  532026 words of memory out of 3000000
- 24971 multiletter control sequences out of 15000+600000
+ 24988 multiletter control sequences out of 15000+600000
  411438 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,9n,81p,875b,378s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 72i,9n,81p,877b,378s stack positions out of 5000i,500n,10000p,200000b,80000s
 <C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
 s/cm/cmbx10.pfb><C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/type1/p
 ublic/amsfonts/cm/cmbx12.pfb><C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/
 fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/Fistroman/AppData/Local/Prog
 rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Fistroman/AppDa
-ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/Fis
-troman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><
+ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Fis
+troman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><
 C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
-/cmr12.pfb><C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/type1/public
-/amsfonts/cm/cmr7.pfb><C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/public/amsfonts/cm/cmr9.pfb><C:/Users/Fistroman/AppData/Local/Programs/MiK
-TeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Fistroman/AppData/Local
-/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Users/Fistroman/
-AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on Diagonalización_Inversa.pdf (17 pages, 256646 bytes).
+/cmr10.pfb><C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmr12.pfb><C:/Users/Fistroman/AppData/Local/Programs/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Fistroman/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Fistroman/AppData/Local/
+Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Fistroman/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/User
+s/Fistroman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/m
+sbm10.pfb>
+Output written on Diagonalización_Inversa.pdf (17 pages, 288566 bytes).
 PDF statistics:
- 120 PDF objects out of 1000 (max. 8388607)
+ 127 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
