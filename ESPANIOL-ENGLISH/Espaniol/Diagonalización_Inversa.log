@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.4)  3 DEC 2021 21:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.4)  7 DEC 2021 22:20
 entering extended mode
 **./Diagonalización_Inversa.tex
 (Diagonalización_Inversa.tex
@@ -485,9 +485,23 @@ LaTeX Info: Redefining \% on input line 1.
 ] [4
 
 ]
-(CAPITULOS/CAPITULO_01/Chapter_01_Introduccion.tex
+(CAPITULOS/CAPITULO_01_Introduccion/ES_Capitulo_01_Introduccion.tex
 Cap\'{\i }tulo 1.
-<../Imagenes/Editadas//EsquemaRelaciones.png, id=23, 845.40843pt x 597.73312pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--22
+
+ []
+
+[5
+
+]) (CAPITULOS/CAPITULO_02_Contexto/Chapter_02_Contexto.tex [6]
+Cap\'{\i }tulo 2.
+<../Imagenes/Editadas//EsquemaRelaciones.png, id=31, 845.40843pt x 597.73312pt>
 
 File: ../Imagenes/Editadas//EsquemaRelaciones.png Graphic file (type png)
 <use ../Imagenes/Editadas//EsquemaRelaciones.png>
@@ -497,24 +511,9 @@ nput line 7.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) (CAPITULOS/CAPITULO_01_Introduccion/ES_Capitulo_01_Introduccion.tex [5
+) (CAPITULOS/CAPITULO_03_TeoremaCA/ES_Capitulo_03_TeoremaCA.tex [7
 
-]
-[6 <../Imagenes/Editadas//EsquemaRelaciones.png>]
-Cap\'{\i }tulo 2.
-
-Underfull \hbox (badness 10000) in paragraph at lines 19--22
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 19--22
-
- []
-
-[7
-
-]) (CAPITULOS/CAPITULO_02_TeoremaCA/ES_Capitulo_02_TeoremaCA.tex [8]
+] [8 <../Imagenes/Editadas//EsquemaRelaciones.png>]
 Cap\'{\i }tulo 3.
 [9
 
@@ -625,7 +624,7 @@ LaTeX Info: Redefining \% on input line 8.
 ) ) 
 Here is how much of TeX's memory you used:
  7302 strings out of 478927
- 118309 string characters out of 2850640
+ 118343 string characters out of 2850640
  532026 words of memory out of 3000000
  24988 multiletter control sequences out of 15000+600000
  411438 words of font info for 58 fonts, out of 8000000 for 9000
@@ -647,7 +646,7 @@ Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Fistroman/A
 ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/User
 s/Fistroman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/m
 sbm10.pfb>
-Output written on Diagonalización_Inversa.pdf (17 pages, 288566 bytes).
+Output written on Diagonalización_Inversa.pdf (17 pages, 288490 bytes).
 PDF statistics:
  127 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
