@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.4)  7 DEC 2021 22:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.4)  7 DEC 2021 22:38
 entering extended mode
 **./Diagonalización_Inversa.tex
 (Diagonalización_Inversa.tex
@@ -501,21 +501,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--22
 
 ]) (CAPITULOS/CAPITULO_02_Contexto/Chapter_02_Contexto.tex [6]
 Cap\'{\i }tulo 2.
-<../Imagenes/Editadas//EsquemaRelaciones.png, id=31, 845.40843pt x 597.73312pt>
+[7
+
+]
+<../Imagenes/Editadas//EsquemaRelaciones.png, id=35, 845.40843pt x 597.73312pt>
 
 File: ../Imagenes/Editadas//EsquemaRelaciones.png Graphic file (type png)
 <use ../Imagenes/Editadas//EsquemaRelaciones.png>
 Package pdftex.def Info: ../Imagenes/Editadas//EsquemaRelaciones.png  used on i
-nput line 7.
+nput line 9.
 (pdftex.def)             Requested size: 591.78186pt x 418.41032pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-) (CAPITULOS/CAPITULO_03_TeoremaCA/ES_Capitulo_03_TeoremaCA.tex [7
-
-] [8 <../Imagenes/Editadas//EsquemaRelaciones.png>]
+ [8 <../Imagenes/Editadas//EsquemaRelaciones.png>] [9])
+(CAPITULOS/CAPITULO_03_TeoremaCA/ES_Capitulo_03_TeoremaCA.tex [10]
 Cap\'{\i }tulo 3.
-[9
+[11
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 9--15
@@ -527,7 +526,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--15
 
  []
 
-[10]
+[12]
 Underfull \hbox (badness 10000) in paragraph at lines 22--25
 
  []
@@ -537,7 +536,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--30
 
  []
 
-[11]
+[13]
 Underfull \hbox (badness 10000) in paragraph at lines 37--42
 
  []
@@ -572,8 +571,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--48
 
  []
 
-[12]
-<../Imagenes/Editadas//cap02/ImagenNoAplicacion.png, id=55, 352.31625pt x 416.3
+[14]
+<../Imagenes/Editadas//cap02/ImagenNoAplicacion.png, id=62, 352.31625pt x 416.3
 0531pt>
 File: ../Imagenes/Editadas//cap02/ImagenNoAplicacion.png Graphic file (type png
 )
@@ -591,7 +590,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 93--94
 
  []
 
-[13 <../Imagenes/Editadas//cap02/ImagenNoAplicacion.png>]) [14] [15
+[15 <../Imagenes/Editadas//cap02/ImagenNoAplicacion.png>]) [16] [17
 
 ]
 (CAPITULOS/CAPITULO_99_Complementarios/ES_Capitulo_99_Complementario.tex
@@ -616,9 +615,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--8
 
  []
 
-[16
+[18
 
-] [17]) (Diagonalización_Inversa.aux
+] [19]) (Diagonalización_Inversa.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 ) ) 
@@ -646,9 +645,9 @@ Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Fistroman/A
 ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/User
 s/Fistroman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/m
 sbm10.pfb>
-Output written on Diagonalización_Inversa.pdf (17 pages, 288490 bytes).
+Output written on Diagonalización_Inversa.pdf (19 pages, 291461 bytes).
 PDF statistics:
- 127 PDF objects out of 1000 (max. 8388607)
+ 134 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
