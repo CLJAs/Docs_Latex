@@ -2,24 +2,26 @@
 \hspace {-7.5mm} \textbf {Capítulos}
 \hfill \textbf {P\'agina} \par 
 \vspace {-2mm} \hspace {-7.5mm} \hrule \par 
-\contentsline {part}{I\hspace {1em}Parte I: Construcción de la diagonalización inversa}{4}{}%
-\contentsline {chapter}{\numberline {1}Introducción}{5}{}%
-\contentsline {chapter}{\numberline {2}Contexto}{7}{}%
-\contentsline {section}{\numberline {2.1}Cadena 'no es mayor que'}{7}{}%
-\contentsline {section}{\numberline {2.2}Esquema general}{8}{}%
-\contentsline {section}{\numberline {2.3}Definiciones}{9}{}%
-\contentsline {subsection}{\numberline {2.3.1}Cadenas de subconjuntos y particiones}{9}{}%
-\contentsline {subsection}{\numberline {2.3.2}SNEF}{9}{}%
-\contentsline {subsection}{\numberline {2.3.3}SNEI}{9}{}%
-\contentsline {subsection}{\numberline {2.3.4}LCF U previos}{9}{}%
-\contentsline {section}{\numberline {2.4}Sentido cardinal de las soluciones multiverso}{10}{}%
-\contentsline {chapter}{\numberline {3}Teorema CA}{11}{}%
-\contentsline {section}{\numberline {3.1}Relaciones no aplicación}{12}{}%
-\contentsline {section}{\numberline {3.2}Concepto de Pack}{13}{}%
-\contentsline {section}{\numberline {3.3}Teorema CA}{14}{}%
-\contentsline {section}{\numberline {3.4}Interpretación intuitiva}{15}{}%
-\contentsline {section}{\numberline {3.5}Equivalencias con el concepto de inyección}{16}{}%
-\contentsline {part}{II\hspace {1em}Parte II: Anexo de comentarios complementarios}{17}{}%
-\contentsline {chapter}{\numberline {4}Ordenados por referencias, no por aparición}{18}{}%
-\contentsline {section}{\numberline {4.1}Lo que pretendo que se deduzca:}{18}{}%
-\contentsline {section}{\numberline {4.2}2: Segundo comentario}{19}{}%
+\contentsline {part}{I\hspace {1em}Parte I: Construcción de la diagonalización inversa}{5}{}%
+\contentsline {chapter}{\numberline {1}Introducción}{6}{}%
+\contentsline {chapter}{\numberline {2}Contexto}{8}{}%
+\contentsline {section}{\numberline {2.1}Cadena 'no es mayor que'}{8}{}%
+\contentsline {section}{\numberline {2.2}Esquema general}{9}{}%
+\contentsline {section}{\numberline {2.3}Definiciones}{10}{}%
+\contentsline {subsection}{\numberline {2.3.1}Cadenas de subconjuntos y particiones}{10}{}%
+\contentsline {subsection}{\numberline {2.3.2}SNEF}{10}{}%
+\contentsline {subsection}{\numberline {2.3.3}SNEI}{10}{}%
+\contentsline {subsection}{\numberline {2.3.4}LCF U previos}{10}{}%
+\contentsline {section}{\numberline {2.4}Sentido cardinal de las soluciones multiverso}{11}{}%
+\contentsline {subsection}{\numberline {2.4.1}Variante de la función definida por partes}{11}{}%
+\contentsline {subsection}{\numberline {2.4.2}Fenómeno real}{11}{}%
+\contentsline {chapter}{\numberline {3}Teorema CA}{13}{}%
+\contentsline {section}{\numberline {3.1}Relaciones no aplicación}{14}{}%
+\contentsline {section}{\numberline {3.2}Concepto de Pack}{15}{}%
+\contentsline {section}{\numberline {3.3}Teorema CA}{16}{}%
+\contentsline {section}{\numberline {3.4}Interpretación intuitiva}{17}{}%
+\contentsline {section}{\numberline {3.5}Equivalencias con el concepto de inyección}{18}{}%
+\contentsline {part}{II\hspace {1em}Parte II: Anexo de comentarios complementarios}{19}{}%
+\contentsline {chapter}{\numberline {4}Ordenados por referencias, no por aparición}{20}{}%
+\contentsline {section}{\numberline {4.1}Lo que pretendo que se deduzca:}{20}{}%
+\contentsline {section}{\numberline {4.2}2: Segundo comentario}{21}{}%
